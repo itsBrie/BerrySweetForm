@@ -1,3 +1,5 @@
+@media(width<=2560px){
+
 .navbar {
     display: flex;
     justify-content: space-between;
